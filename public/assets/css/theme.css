@@ -870,7 +870,7 @@ a{
     bottom:0;
     width:200px;
     height:200px;
-    background-color: rgb(250 204 71 / 100%);\'/'
+    background-color: rgb(250 204 71 / 100%);
 }
 .why-content  {
     padding:30px 0;
@@ -1201,7 +1201,7 @@ a{
         text-align: center !important;
     }
     .why-content img {
-        margin: -60px 0 20px; 
+        margin: 20px 0 20px; 
     }
     .why-content .container { 
         max-width: 95%; 
