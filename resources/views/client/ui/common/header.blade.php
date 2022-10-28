@@ -9,10 +9,10 @@
             <ul class="navbar-nav  ">
               
               <li class="nav-item">
-                <a class="nav-link" href="#">About us</a>
+                <a class="nav-link" href="about">About us</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">Admission</a>
+                <a class="nav-link" href="why">Why DDHA</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="#">Academics</a>
