@@ -90,7 +90,63 @@
       </section>
 
  
+      <section class="blog-list-page rela-blog">
+      <div class="container">
+          <div class="row  ">
+          
+           
+            
+            <div class="col-lg-12 ">
+
+            <h4>Related Articles</h4>
+
+
+              <div class="row">
+
+                <div class="col-md-4">
+                  <div class="blog-list">
+                    <img src="https://blend.com/wp-content/uploads/2022/06/Blend-Mortgage-Process-Automation-1.png" class="img-fluid">
+                    <span>Thought leadership</span>
+                    <h4>How personalization is driving the next wave of customer experiences in...</h4>
+                    <p>From recent trends to customer interaction cycles, this in-depth guide is built for financial providers looking to improve the</p>
+                    <a>Read the article </a> 
+                  </div> 
+                </div>
+
+                <div class="col-md-4">
+                  <div class="blog-list">
+                    <img src="https://blend.com/wp-content/uploads/2022/06/Blend-Mortgage-Process-Automation-1.png" class="img-fluid">
+                    <span>Thought leadership</span>
+                    <h4>How personalization is driving the next wave of customer experiences in...</h4>
+                    <p>From recent trends to customer interaction cycles, this in-depth guide is built for financial providers looking to improve the</p>
+                    <a>Read the article </a> 
+                  </div> 
+                </div>
+
+
+                <div class="col-md-4">
+                  <div class="blog-list">
+                    <img src="https://blend.com/wp-content/uploads/2022/06/Blend-Mortgage-Process-Automation-1.png" class="img-fluid">
+                    <span>Thought leadership</span>
+                    <h4>How personalization is driving the next wave of customer experiences in...</h4>
+                    <p>From recent trends to customer interaction cycles, this in-depth guide is built for financial providers looking to improve the</p>
+                    <a>Read the article </a> 
+                  </div> 
+                </div>
+
  
+
+
+
+
+              </div>
+
+            
+
+                </div>
+              </div>
+          </div>
+      </section>
 
 @include('client.ui.common.footer')
 </div>
