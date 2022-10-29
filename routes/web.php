@@ -26,59 +26,18 @@ Route::get('/about', function () {
 });
 Route::get('/why', function () {
     return view('client.ui.pages.why');
+}); 
+Route::get('/blog', function () {
+    return view('client.ui.pages.blog');
 });
-Route::get('/services', function () {
-    return view('client.ui.pages.services');
-});
-Route::get('/project', function () {
-    return view('client.ui.pages.project');
-});
-Route::get('/portfolio', function () {
-    return view('client.ui.pages.portfolio');
-});
-Route::get('/safety-policy', function () {
-    return view('client.ui.pages.safety-policy');
-});
-Route::get('/interior-fit-out-works', function () {
-    return view('client.ui.pages.interior-fit-out-works');
-});
+Route::get('/blog_details', function () {
+    return view('client.ui.pages.blog_details');
+});  
 
 
+ 
 
-
-
-Route::get('ui/design-services', function () {
-    return view('client.ui.pages.design-services');
-});
-Route::get('ui/suspended-ceiling', function () {
-    return view('client.ui.pages.suspended-ceiling');
-});
-Route::get('ui/partition-works', function () {
-    return view('client.ui.pages.partition-works');
-});
-Route::get('ui/wall-cladding', function () {
-    return view('client.ui.pages.wall-cladding');
-});
-
-Route::get('ui/flooring', function () {
-    return view('client.ui.pages.flooring');
-});
-Route::get('ui/painting', function () {
-    return view('client.ui.pages.painting');
-});
-Route::get('ui/raised-access-floors', function () {
-    return view('client.ui.pages.raised-access-floors');
-});
-Route::get('ui/glass-works', function () {
-    return view('client.ui.pages.glass-works');
-});
-Route::get('ui/joinery-works', function () {
-    return view('client.ui.pages.joinery-works');
-});
-Route::get('ui/mep-work', function () {
-    return view('client.ui.pages.mep-work');
-});
-
+ 
 
 
 
@@ -102,16 +61,7 @@ Route::get('/config-cache', function() {
 
 Route::get('/dashboard', function () {
     return view('dashboard');
-})->middleware(['auth'])->name('dashboard');
-
-Route::group(['prefix' => 'sitemap'], function(){
-    Route::get('/', [SitemapController::class, 'index'])->name('sitemap.index');
-    Route::get('/services', [SitemapController::class, 'services'])->name('sitemap.services');
-    Route::get('/blogs', [SitemapController::class, 'blogs'])->name('sitemap.blogs');
-});
-
-Route::get('blog', [BlogController::class, 'index'])->name('blog');
-Route::get('blog/{slug}', [BlogController::class, 'details'])->name('blog.details');
+})->middleware(['auth'])->name('dashboard'); 
 
 require __DIR__.'/auth.php';
 require __DIR__.'/admin.php';
