@@ -98,41 +98,72 @@
             
             <div class="col-lg-12 ">
 
-            <h4>Related Articles</h4>
+            <h5>Related Articles</h5>
 
 
               <div class="row">
 
                 <div class="col-md-4">
-                  <div class="blog-list">
+                  <div class="blog-list d-flex align-items-center rela-lst">
                     <img src="https://blend.com/wp-content/uploads/2022/06/Blend-Mortgage-Process-Automation-1.png" class="img-fluid">
-                    <span>Thought leadership</span>
+                    <div> 
                     <h4>How personalization is driving the next wave of customer experiences in...</h4>
-                    <p>From recent trends to customer interaction cycles, this in-depth guide is built for financial providers looking to improve the</p>
-                    <a>Read the article </a> 
+                    <p>From recent trends to customer interaction cycles, this in-depth guide is built for financial providers looking to improve the</p> </div>
                   </div> 
                 </div>
 
                 <div class="col-md-4">
-                  <div class="blog-list">
+                  <div class="blog-list d-flex align-items-center rela-lst">
                     <img src="https://blend.com/wp-content/uploads/2022/06/Blend-Mortgage-Process-Automation-1.png" class="img-fluid">
-                    <span>Thought leadership</span>
+                    <div> 
                     <h4>How personalization is driving the next wave of customer experiences in...</h4>
-                    <p>From recent trends to customer interaction cycles, this in-depth guide is built for financial providers looking to improve the</p>
-                    <a>Read the article </a> 
+                    <p>From recent trends to customer interaction cycles, this in-depth guide is built for financial providers looking to improve the</p> </div>
                   </div> 
                 </div>
 
 
                 <div class="col-md-4">
-                  <div class="blog-list">
+                  <div class="blog-list d-flex align-items-center rela-lst">
                     <img src="https://blend.com/wp-content/uploads/2022/06/Blend-Mortgage-Process-Automation-1.png" class="img-fluid">
-                    <span>Thought leadership</span>
+                    <div> 
                     <h4>How personalization is driving the next wave of customer experiences in...</h4>
-                    <p>From recent trends to customer interaction cycles, this in-depth guide is built for financial providers looking to improve the</p>
-                    <a>Read the article </a> 
+                    <p>From recent trends to customer interaction cycles, this in-depth guide is built for financial providers looking to improve the</p> </div>
                   </div> 
                 </div>
+
+
+                <div class="col-md-4">
+                  <div class="blog-list d-flex align-items-center rela-lst">
+                    <img src="https://blend.com/wp-content/uploads/2022/06/Blend-Mortgage-Process-Automation-1.png" class="img-fluid">
+                    <div> 
+                    <h4>How personalization is driving the next wave of customer experiences in...</h4>
+                    <p>From recent trends to customer interaction cycles, this in-depth guide is built for financial providers looking to improve the</p> </div>
+                  </div> 
+                </div>
+
+
+                <div class="col-md-4">
+                  <div class="blog-list d-flex align-items-center rela-lst">
+                    <img src="https://blend.com/wp-content/uploads/2022/06/Blend-Mortgage-Process-Automation-1.png" class="img-fluid">
+                    <div> 
+                    <h4>How personalization is driving the next wave of customer experiences in...</h4>
+                    <p>From recent trends to customer interaction cycles, this in-depth guide is built for financial providers looking to improve the</p> </div>
+                  </div> 
+                </div>
+
+
+                <div class="col-md-4">
+                  <div class="blog-list d-flex align-items-center rela-lst">
+                    <img src="https://blend.com/wp-content/uploads/2022/06/Blend-Mortgage-Process-Automation-1.png" class="img-fluid">
+                    <div> 
+                    <h4>How personalization is driving the next wave of customer experiences in...</h4>
+                    <p>From recent trends to customer interaction cycles, this in-depth guide is built for financial providers looking to improve the</p> </div>
+                  </div> 
+                </div>
+
+                 
+
+ 
 
  
 
