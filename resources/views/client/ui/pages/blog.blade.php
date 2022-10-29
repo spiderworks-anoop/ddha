@@ -41,47 +41,9 @@
       <div class="container">
           <div class="row  ">
           
-            <div class="col-lg-3 col-md-3 col-sm-4 col-12">
-  
-             
-  
-  
-              <div class="sticky-top">
-                <div class="sidebar-content-block">
-               
-      
-  
-                    <ul>
-  
-
-                      <h3>Topics</h3>
-
-                   
-
-
-
-                      <li><a class=" " id="MainlandLicense-tab" data-toggle="tab" href="#MainlandLicense" role="tab" aria-controls="MainlandLicense" aria-selected="true">Mainland License</a></li>
-  
-                      <li><a class="" id="ProfessionalLicense-tab" data-toggle="tab" href="#ProfessionalLicense" role="tab" aria-controls="ProfessionalLicense" aria-selected="false">Professional License</a></li>
-  
-                      <li><a class="" id="FreezoneLicense-tab" data-toggle="tab" href="#OffshoreLicense" role="tab" aria-controls="FreezoneLicense" aria-selected="false">Offshore License</a></li>
-  
-                      <li><a class="" id="Airflow-tab" data-toggle="tab" href="#FreezoneLicense" role="tab" aria-controls="Airflow" aria-selected="false">Free zone License</a></li>
-  
-                      <li><a class="" id="CommecialLicense-tab" data-toggle="tab" href="#CommecialLicense" role="tab" aria-controls="CommecialLicense" aria-selected="false">Commecial License</a></li>
-  
-                      <li><a class="" id="AttestationServices-tab" data-toggle="tab" href="#AttestationServices" role="tab" aria-controls="AttestationServices" aria-selected="false">Attestation Services</a></li>
-                    </ul>
-  
-  
-                  
-
- 
-                </div>
-              </div>
-            </div>
             
-            <div class="col-lg-9 col-md-9 col-sm-8 col-12 tab-content filtering   ">
+            
+            <div class="col-lg-12 col-md-12 col-sm-12 col-12 tab-content filtering   ">
 
 
               <div class="row">
