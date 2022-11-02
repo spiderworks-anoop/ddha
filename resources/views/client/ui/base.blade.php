@@ -7,7 +7,7 @@
    <meta charset="utf-8">
 
    <meta name="viewport" content="width=device-width, initial-scale=1">
-   <title>Best International School in Thrissur | IGCSE, CBSE, IB School Kerala </title>
+   <title>Dehradun Hills Academy </title>
    @include('client.ui.include.style')
 
    @section('head')
