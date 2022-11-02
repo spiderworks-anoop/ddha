@@ -34,11 +34,47 @@ Route::get('/blog_details', function () {
     return view('client.ui.pages.blog_details');
 });  
 
+Route::get('/pastoral_care', function () {
+    return view('client.ui.pages.pastoral_care');
+});  
 
- 
+Route::get('/health_wellbeing', function () {
+    return view('client.ui.pages.health_wellbeing');
+});  
 
- 
+Route::get('/security_safety', function () {
+    return view('client.ui.pages.security_safety');
+});
 
+Route::get('/food_nutrition', function () {
+    return view('client.ui.pages.food_nutrition');
+});  
+
+
+Route::get('/admission', function () {
+    return view('client.ui.pages.admission');
+});  
+
+Route::get('/withdrawal_policy', function () {
+    return view('client.ui.pages.withdrawal_policy');
+});  
+
+Route::get('/affiliation_cbse', function () {
+    return view('client.ui.pages.affiliation_cbse');
+});  
+
+
+Route::get('/library', function () {
+    return view('client.ui.pages.library');
+});  
+
+Route::get('/career_guidance_cell', function () {
+    return view('client.ui.pages.career_guidance_cell');
+});  
+
+Route::get('/curriculum', function () {
+    return view('client.ui.pages.curriculum');
+});  
 
 
 

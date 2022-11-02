@@ -14,12 +14,39 @@
               <li class="nav-item">
                 <a class="nav-link" href="why">Why DDHA</a>
               </li>
-              <li class="nav-item">
-                <a class="nav-link" href="#">Academics</a>
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Academics</a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <li><a class="dropdown-item" href="affiliation_cbse">   Affiliation cbse</a></li>
+            <li><a class="dropdown-item" href="curriculum"> Curriculum </a></li> 
+            <li><a class="dropdown-item" href="career_guidance_cell"> Career Guidance Cell </a></li>
+            <li><a class="dropdown-item" href="library"> Library     </a></li>
+          </ul> 
               </li>
-              <li class="nav-item">
-                <a class="nav-link" href="#">Boarding</a>
-              </li>
+
+              <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          Admission
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <li><a class="dropdown-item" href="admission">   Admission at DDHA</a></li>
+            <li><a class="dropdown-item" href="withdrawal_policy"> Withdrawal Policy </a></li> 
+            <li><a class="dropdown-item" href="{{asset('assets/img/WIthdrawal-Form.docx')}}"> WIthdrawal Form </a></li>
+          </ul>
+
+        </li>
+             
+              <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          Boarding
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <li><a class="dropdown-item" href="pastoral_care"> Pastoral Care</a></li>
+            <li><a class="dropdown-item" href="health_wellbeing"> Health Wellbeing</a></li>
+            <li><a class="dropdown-item" href="security_safety"> Security Safety</a></li>
+            <li><a class="dropdown-item" href="food_nutrition"> Food Nutrition  </a></li>
+          </ul>
+        </li>
               <li class="nav-item">
                 <a class="nav-link" href="#"> Contact Us</a>
               </li>
