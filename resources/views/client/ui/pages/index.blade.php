@@ -1,6 +1,9 @@
 @extends('client.ui.base')
 @section('head')
 <style>
+  .foot-element{
+    display: none;
+  }
   
 </style>
 @endsection

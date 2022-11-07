@@ -1,4 +1,42 @@
 
+<section class="foot-element"> 
+  <div class="container  ">
+
+  <div class="row">
+
+      <div class="col-md-4">
+        <div class="element-item">
+          <img src="{{asset('assets/img/ad-1.png')}} " class="img-fluid"/> 
+          <h4>Admission</h4>
+        </div> 
+      </div>
+
+      <div class="col-md-4">
+        <div class="element-item">
+          <img src="{{asset('assets/img/career_guidance_cell.webp')}} " class="img-fluid"/> 
+          <h4>Registration</h4>
+        </div> 
+      </div>
+
+
+      <div class="col-md-4">
+        <div class="element-item">
+          <img src="{{asset('assets/img/ad-5.png ')}} " class="img-fluid"/> 
+          <h4>Upcoming Events</h4>
+        </div> 
+      </div>
+
+
+</div>
+
+
+  </div>
+</section>
+
+
+
+
+
 
 <hr class="main-hr"/>
 
