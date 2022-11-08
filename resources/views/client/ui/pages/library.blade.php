@@ -23,19 +23,15 @@
                     <img src="{{asset('assets/img/library.webp')}}" class="img-fluid w-100"/>  
                 </div>
                 <div class="col-md-7">
-                <span>Academics</span>
-                    <h3>    Affiliation CBSE</h3>
-                    <p> Dehradun Hills Academy offers a welcoming environment to
-everyone. A group consisting of children from all age group working
-together for a same goal. Led by the House Masters, the buddies are
-committed to giving both their time and effort to ensure that new
-students are supported and assisted in transitioning to a new school
-environment.</p> 
-                    <p>We have a broad and balanced curriculum, which is based on the
-guidelines established by the National Curriculum Framework (NCF)
-published by the NCERT. The curriculum that we offer at the Junior
-and Middle School, consisting of Grades 4, 5, 6, 7 and 8, covers the
-following subjects: </p>
+                <span>Library</span>
+                    <h3>   Library</h3>
+                    <p> The school library is a very comfortable and ideal platform for self-
+study, it also has a treasure of variety of resource materials like
+journals, magazines, e-books etc. all of which enhances each student’s
+growth process. Our Library has been designed with comfortable
+furniture and a vibrant environment to make the reading experience
+enticing and a treat for the students and teachers alike.</p> 
+                   
  
                     
                 </div> 
