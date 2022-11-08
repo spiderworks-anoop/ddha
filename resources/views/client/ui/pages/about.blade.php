@@ -36,7 +36,7 @@
                 <div class="row">
                 <div class="col-md-4">
                     <div class="about-img-cntr">
-                        <img src="{{asset('assets/img/board--img4.png')}}" class="img-fluid w-100"/> 
+                        <img src="{{asset('assets/img/about.png')}}" class="img-fluid w-100"/> 
                         </div>
                     </div>
                 <div class="col-md-7">

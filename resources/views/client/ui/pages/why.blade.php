@@ -34,7 +34,7 @@
         <div class="container">
             <div class="row d-flex align-items-center">
                 <div class="col-md-3"> 
-                    <img src="{{asset('assets/img/location.webp')}}" class="img-fluid w-100"/>  
+                    <img src="{{asset('assets/img/ad-2.png')}}" class="img-fluid w-100"/>  
                 </div>
                 <div class="col-md-9">
                     <h3>Location Advantage</h3>
@@ -61,7 +61,7 @@
                     </p> 
                 </div> 
                 <div class="col-md-3"> 
-                    <img src="{{asset('assets/img/why-2.webp')}}" class="img-fluid w-100"/>  
+                    <img src="{{asset('assets/img/ads.jpg')}}" class="img-fluid w-100"/>  
                 </div>
             </div> 
         </div>  
@@ -77,7 +77,7 @@
         <div class="container">
             <div class="row d-flex align-items-center"> 
             <div class="col-md-3"> 
-                    <img src="{{asset('assets/img/why-3.webp')}}" class="img-fluid w-100"/>  
+                    <img src="{{asset('assets/img/az.jpg')}}" class="img-fluid w-100"/>  
                 </div>
                 <div class="col-md-9">
                     <h3>  A-Z Learning Outside the Classroom </h3>
@@ -105,7 +105,7 @@ campus throughout Leadership Program.
                     </p> 
                 </div> 
                 <div class="col-md-3"> 
-                    <img src="{{asset('assets/img/why-4.webp')}}" class="img-fluid w-100"/>  
+                    <img src="{{asset('assets/img/crs.jpg')}}" class="img-fluid w-100"/>  
                 </div>
             </div> 
         </div>  
@@ -117,7 +117,7 @@ campus throughout Leadership Program.
         <div class="container">
             <div class="row d-flex align-items-center"> 
             <div class="col-md-3"> 
-                    <img src="{{asset('assets/img/why-5.webp')}}" class="img-fluid w-100"/>  
+                    <img src="{{asset('assets/img/evn.jpg')}}" class="img-fluid w-100"/>  
                 </div>
                 <div class="col-md-9">
                     <h3>  Healthy Environment</h3>
@@ -144,7 +144,7 @@ better models with changing times.
                     </p> 
                 </div> 
                 <div class="col-md-3"> 
-                    <img src="{{asset('assets/img/why-6.webp')}}" class="img-fluid w-100"/>  
+                    <img src="{{asset('assets/img/why-3.jpg')}}" class="img-fluid w-100"/>  
                 </div>
             </div> 
         </div>  
@@ -156,7 +156,7 @@ better models with changing times.
         <div class="container">
             <div class="row d-flex align-items-center"> 
             <div class="col-md-3"> 
-                    <img src="{{asset('assets/img/why-7.webp')}}" class="img-fluid w-100"/>  
+                    <img src="{{asset('assets/img/why-9.jpg')}}" class="img-fluid w-100"/>  
                 </div>
                 <div class="col-md-9">
                     <h3>  Global minded citizens</h3>
