@@ -11,9 +11,20 @@
               <li class="nav-item">
                 <a class="nav-link" href="about">About us</a>
               </li>
-              <li class="nav-item">
-                <a class="nav-link" href="why">Why DDHA</a>
+            
+
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Advantage DDHA</a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <li><a class="dropdown-item" href="why">    Why DDHA </a></li>
+            <li><a class="dropdown-item" href="learning"> Learning outside the classroom </a></li> 
+            <li><a class="dropdown-item" href="personalized"> Personalized learning experience </a></li>
+            <li><a class="dropdown-item" href="organic"> What is organic lifestyle    </a></li>
+            <li><a class="dropdown-item" href="benefits"> 10 benefits of small class sizes   </a></li>
+          </ul> 
               </li>
+
+
               <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Academics</a>
                 <ul class="dropdown-menu" aria-labelledby="navbarDropdown">

@@ -24,9 +24,23 @@ Route::get('/', function () {
 Route::get('/about', function () {
     return view('client.ui.pages.about');
 });
+
 Route::get('/why', function () {
     return view('client.ui.pages.why');
 }); 
+Route::get('/learning', function () {
+    return view('client.ui.pages.learning');
+}); 
+Route::get('/personalized', function () {
+    return view('client.ui.pages.personalized');
+}); 
+Route::get('/organic', function () {
+    return view('client.ui.pages.organic');
+}); 
+Route::get('/benefits', function () {
+    return view('client.ui.pages.benefits');
+});  
+
 Route::get('/blog', function () {
     return view('client.ui.pages.blog');
 });
