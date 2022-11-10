@@ -20,17 +20,17 @@
         <div class="container">
             <div class="row d-flex align-items-center">
                 <div class="col-md-5"> 
-                    <img src="{{asset('assets/img/Boarding-3.webp')}}" class="img-fluid w-100"/>  
+                    <img src="{{asset('assets/img/food.jpg')}}" class="img-fluid w-100"/>  
                 </div>
                 <div class="col-md-7">
                 <span>Boarding</span>
-                    <h3>  Pastoral Care </h3>
+                    <h3>  Food Nutrition </h3>
                     <p> The house dining is an important feature of Dehradun hills academy’s
 pastoral care. Meal times are a combination of formal lunches where
 visitors are welcomed and more informal suppers and breakfasts
 which all offer a good chance for staff to engage with pupils and for
-pupils to feel at home.</p> 
-                    <p>Our school kitchen has in-house catering team where they take
+pupils to feel at home. </p> 
+                    <p> Our school kitchen has in-house catering team where they take
 pleasure in designing menus and delivering wholesome meals. There
 is a gracious and orderly atmosphere adding the dining hall as our
 students take their seats before meals, beginning with prayers. </p>
@@ -43,7 +43,7 @@ farms. From time to time we invite diet specialists to come and work
 with children planning their food menus. Each week we choose a day
 to focus on Ayurveda diet for body detox. </p>
                     <p> We ensure that the students are offered to try various cuisines, from
-Indian to Continental to Chinese to South Indian food.</p>
+Indian to Continental to Chinese to South Indian food. </p>
                     
                 </div> 
             </div> 

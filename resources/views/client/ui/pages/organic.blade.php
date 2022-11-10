@@ -20,7 +20,7 @@
         <div class="container">
             <div class="row d-flex align-items-center ">
             <div class="col-md-5   ">  
-                    <img src="{{asset('assets/img/library.webp')}}" class="img-fluid w-100"/>   
+                    <img src="{{asset('assets/img/organic.jpg')}}" class="img-fluid w-100"/>   
                 </div>
                 <div class="col-md-7"> 
                     <h3>   What is an Organic Lifestyle and how is it connected to the school?</h3>

@@ -20,7 +20,7 @@
         <div class="container">
             <div class="row d-flex align-items-center ">
                 <div class="col-md-5"> 
-                    <img src="{{asset('assets/img/library.webp')}}" class="img-fluid w-100"/>  
+                    <img src="{{asset('assets/img/learning-banner.jpg')}}" class="img-fluid w-100"/>  
                 </div>
                 <div class="col-md-7">
                 <span>Learning  </span>
@@ -113,14 +113,14 @@ sponsored programs.</p>
                 </div>
                 </div>
                 <div class="col-md-6 p-0 ">  
-                    <img src="{{asset('assets/img/library.webp')}}" class="img-fluid w-100"/>   
+                    <img src="{{asset('assets/img/learning-1.jpg')}}" class="img-fluid w-100"/>   
                 </div>
             </div> 
 
 
             <div class="row mb-3   "> 
             <div class="col-md-6 ">  
-                    <img src="{{asset('assets/img/library.webp')}}" class="img-fluid w-100"/>   
+                    <img src="{{asset('assets/img/learning-img-2.jpg')}}" class="img-fluid w-100"/>   
                 </div>
                 <div class="col-md-6  right-light-clr d-flex align-items-center">  
                     <div>
@@ -141,14 +141,14 @@ sponsored programs.</p>
                 </div>
                 </div>
                 <div class="col-md-6  ">  
-                    <img src="{{asset('assets/img/library.webp')}}" class="img-fluid w-100"/>   
+                    <img src="{{asset('assets/img/learning.jpg')}}" class="img-fluid w-100"/>   
                 </div>
             </div> 
 
 
             <div class="row mb-3   "> 
             <div class="col-md-6 ">  
-                    <img src="{{asset('assets/img/library.webp')}}" class="img-fluid w-100"/>   
+                    <img src="{{asset('assets/img/learning-img-3.jpg')}}" class="img-fluid w-100"/>   
                 </div>
                 <div class="col-md-6  right-light-clr d-flex align-items-center">  
                     <div>
@@ -171,14 +171,14 @@ sponsored programs.</p>
                 </div>
                 </div>
                 <div class="col-md-6  ">  
-                    <img src="{{asset('assets/img/library.webp')}}" class="img-fluid w-100"/>   
+                    <img src="{{asset('assets/img/learning-img-4.jpg')}}" class="img-fluid w-100"/>   
                 </div>
             </div> 
 
 
             <div class="row mb-3   "> 
             <div class="col-md-6 ">  
-                    <img src="{{asset('assets/img/library.webp')}}" class="img-fluid w-100"/>   
+                    <img src="{{asset('assets/img/learning-img-5.jpg')}}" class="img-fluid w-100"/>   
                 </div>
                 <div class="col-md-6  right-light-clr d-flex align-items-center">  
                     <div>

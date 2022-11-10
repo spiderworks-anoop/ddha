@@ -20,7 +20,7 @@
         <div class="container">
             <div class="row   ">
                 <div class="col-md-5"> 
-                    <img src="{{asset('assets/img/az.jpg')}}" class="img-fluid w-100"/>  
+                    <img src="{{asset('assets/img/caricu.jpg')}}" class="img-fluid w-100"/>  
                 </div>
                 <div class="col-md-7">
                 <span>Academics</span>

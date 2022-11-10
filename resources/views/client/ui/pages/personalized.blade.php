@@ -20,7 +20,7 @@
         <div class="container">
             <div class="row  ">
             <div class="col-md-5   ">  
-                    <img src="{{asset('assets/img/library.webp')}}" class="img-fluid w-100"/>   
+                    <img src="{{asset('assets/img/learning.jpg')}}" class="img-fluid w-100"/>   
                 </div>
                 <div class="col-md-7"> 
                     <h3>  Personalized Learning Experience</h3>
@@ -50,7 +50,7 @@
                 </div> 
 
                 <div class="col-md-5   ">  
-                    <img src="{{asset('assets/img/library.webp')}}" class="img-fluid w-100"/>   
+                    <img src="{{asset('assets/img/learning-img-4.jpg')}}" class="img-fluid w-100"/>   
                 </div>
             </div> 
         </div>  

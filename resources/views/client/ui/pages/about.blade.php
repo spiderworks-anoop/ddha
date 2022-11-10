@@ -16,7 +16,7 @@
  
 <section class="about-banner">
         
-        <img src="{{asset('assets/img/banner.jpg')}}" class="img-fluid"/> 
+        <img src="{{asset('assets/img/about-banner.jpg')}}" class="img-fluid"/> 
         <div class="about-banner-text-cntr d-flex align-items-center justify-content-center">
              <div><span>About Us</span>
                     <h2>DEHRADUN HILLS ACADEMY</h2> 
@@ -36,7 +36,7 @@
                 <div class="row">
                 <div class="col-md-4">
                     <div class="about-img-cntr">
-                        <img src="{{asset('assets/img/about.png')}}" class="img-fluid w-100"/> 
+                        <img src="{{asset('assets/img/about-img-1.JPG')}}" class="img-fluid w-100"/> 
                         </div>
                     </div>
                 <div class="col-md-7">

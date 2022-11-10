@@ -55,14 +55,14 @@ world-class mindful education.</p>
                 </div>
                 </div>
                 <div class="col-md-6 p-0 ">  
-                    <img src="{{asset('assets/img/library.webp')}}" class="img-fluid w-100"/>   
+                    <img src="{{asset('assets/img/learning.jpg')}}" class="img-fluid w-100"/>   
                 </div>
             </div> 
 
 
             <div class="row mb-3   "> 
-            <div class="col-md-6 ">  
-                    <img src="{{asset('assets/img/library.webp')}}" class="img-fluid w-100"/>   
+            <div class="col-md-6 p-0">  
+                    <img src="{{asset('assets/img/learning-img-3.jpg')}}" class="img-fluid w-100"/>   
                 </div>
                 <div class="col-md-6  right-light-clr d-flex align-items-center">  
                     <div>
@@ -82,15 +82,15 @@ world-class mindful education.</p>
                         <p>Not only do students learn more in small classes, they also learn faster. And this means the class progresses through the course material more quickly. Their learning is enhanced by the confidence students develop to share their opinions and ask and answer questions, which also benefits their peers.</p>   
                 </div>
                 </div>
-                <div class="col-md-6  ">  
-                    <img src="{{asset('assets/img/library.webp')}}" class="img-fluid w-100"/>   
+                <div class="col-md-6  p-0">  
+                    <img src="{{asset('assets/img/learning-2.jpg')}}" class="img-fluid w-100"/>   
                 </div>
             </div> 
 
 
             <div class="row mb-3   "> 
-            <div class="col-md-6 ">  
-                    <img src="{{asset('assets/img/library.webp')}}" class="img-fluid w-100"/>   
+            <div class="col-md-6 p-0">  
+                    <img src="{{asset('assets/img/learning.jpg')}}" class="img-fluid w-100"/>   
                 </div>
                 <div class="col-md-6  right-light-clr d-flex align-items-center">  
                     <div>
@@ -112,15 +112,15 @@ world-class mindful education.</p>
                         <p>   With fewer students per class, individuals can connect more closely with their peers and become more confident and comfortable when it comes to sharing their ideas and perspectives. These connections lead to lasting friendships. At Dehra Dun Hills Academy, students will respect and connect with peers who are from different cultures and countries – a skill that is very important in the globalized 21st century.</p>   
                 </div>
                 </div>
-                <div class="col-md-6  ">  
-                    <img src="{{asset('assets/img/library.webp')}}" class="img-fluid w-100"/>   
+                <div class="col-md-6 p-0 ">  
+                    <img src="{{asset('assets/img/learning-1.jpg')}}" class="img-fluid w-100"/>   
                 </div>
             </div> 
 
 
             <div class="row mb-3   "> 
-            <div class="col-md-6 ">  
-                    <img src="{{asset('assets/img/library.webp')}}" class="img-fluid w-100"/>   
+            <div class="col-md-6 p-0">  
+                    <img src="{{asset('assets/img/learning-img-4.jpg')}}" class="img-fluid w-100"/>   
                 </div>
                 <div class="col-md-6  right-light-clr d-flex align-items-center">  
                     <div>
@@ -139,15 +139,15 @@ world-class mindful education.</p>
                         <p>  In learning environments with a limited number of students, teachers can spend more time teaching the material and less time getting the attention of those who get distracted. Teachers can also cater to students’ different learning styles and ensure that they stay engaged and understand what is being taught.</p>   
                 </div>
                 </div>
-                <div class="col-md-6  ">  
-                    <img src="{{asset('assets/img/library.webp')}}" class="img-fluid w-100"/>   
+                <div class="col-md-6  p-0">  
+                    <img src="{{asset('assets/img/learning-img-2.jpg')}}" class="img-fluid w-100"/>   
                 </div>
             </div> 
 
 
             <div class="row mb-3   "> 
-            <div class="col-md-6 ">  
-                    <img src="{{asset('assets/img/library.webp')}}" class="img-fluid w-100"/>   
+            <div class="col-md-6 p-0">  
+                    <img src="{{asset('assets/img/about-img-1.JPG')}}" class="img-fluid w-100"/>   
                 </div>
                 <div class="col-md-6  right-light-clr d-flex align-items-center">  
                     <div>
@@ -167,15 +167,15 @@ world-class mindful education.</p>
                         <p>  Students and teachers at Dehra Dun Hills Academy often work together one-on-one, which gives teachers the opportunity to customize instruction and guidance, and students receive their instructors’ and mentors’ undivided attention.</p>   
                 </div>
                 </div>
-                <div class="col-md-6  ">  
-                    <img src="{{asset('assets/img/library.webp')}}" class="img-fluid w-100"/>   
+                <div class="col-md-6 p-0 ">  
+                    <img src="{{asset('assets/img/learning-banner.jpg')}}" class="img-fluid w-100"/>   
                 </div>
             </div> 
 
 
             <div class="row mb-3   "> 
-            <div class="col-md-6 ">  
-                    <img src="{{asset('assets/img/library.webp')}}" class="img-fluid w-100"/>   
+            <div class="col-md-6 p-0">  
+                    <img src="{{asset('assets/img/learning-img-5.jpg')}}" class="img-fluid w-100"/>   
                 </div>
                 <div class="col-md-6  right-light-clr d-flex align-items-center">  
                     <div>

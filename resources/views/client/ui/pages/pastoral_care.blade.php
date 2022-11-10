@@ -20,7 +20,7 @@
         <div class="container">
             <div class="row d-flex align-items-center">
                 <div class="col-md-5"> 
-                    <img src="{{asset('assets/img/Boarding-1.webp')}}" class="img-fluid w-100"/>  
+                    <img src="{{asset('assets/img/personal-care.jpg')}}" class="img-fluid w-100"/>  
                 </div>
                 <div class="col-md-7">
                 <span>Boarding</span>

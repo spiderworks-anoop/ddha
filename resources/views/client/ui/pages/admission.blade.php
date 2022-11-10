@@ -30,8 +30,13 @@
 
 
             <div class="row  ">
+
+            <div class="col-md-5"> 
+            <img src="{{asset('assets/img/admis.JPG')}}" class="img-fluid w-100"/>  
+
+</div>
                 
-                <div class="col-md-12"> 
+                <div class="col-md-7"> 
                     <p> Dehradun Hills Academy is a Boutique Residential School. We have 27 seats for the year 2020-21</p>
                     <p>Each year not more than a handful of students are selected in the Academy. The
                         selection process takes place not only on the basis of the academic abilities of the
@@ -45,7 +50,17 @@
                         the correct values, he is READY to learn. Only then can he gain from the Boutique
                         Educational Experience.</p>
 
-                        <p>DDHA offers admission from grade 1 st to 5 th (for children who want to join above 6 th
+                      
+
+
+
+
+                  
+                
+                </div> 
+
+                <div class="col-md-12"> 
+                <p>DDHA offers admission from grade 1 st to 5 th (for children who want to join above 6 th
                         standard special permission is needed to join the school). The first stage of
                         admission process is to initiate the registration by filling the ‘Registration Form’
                         along with the prescribed registration fee (non-refundable) and following
@@ -58,12 +73,7 @@
                         <li> Passport Size Photographs of the candidate – 3 No.s</li>
                     </ol>
 
-
-
-
-                  
-                
-                </div> 
+</div>
 
                 <div class="col-md-12"> 
                 <div class="note-cntr">
@@ -76,7 +86,7 @@
                 </div> 
 
 
-                <div class="col-md-12">  
+                <div class="col-md-7">  
                     <p>   This Curriculum includes, </p> 
                     <ul>
                         <li>How to motivate yourself</li>
@@ -103,6 +113,11 @@ be refundable.</p>
 Admission Helpline at +91-9012377773 or email at admissions.ddha@gmail.com</p>
                    
                 </div> 
+
+                <div class="col-md-5"> 
+            <img src="{{asset('assets/img/admis-2.jpg')}}" class="img-fluid w-100"/>  
+
+</div>
 
 
             </div> 
