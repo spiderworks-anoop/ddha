@@ -901,7 +901,6 @@ a{
 .about-cnotent img{
     width: 100%;
     height: 100%;
-    min-height: 398px;
     object-fit: cover;
 }
 .about-img-cntr{
@@ -1440,9 +1439,6 @@ background: linear-gradient(180deg, rgba(0,0,0,0) 0%, rgba(0,0,0,0.7539390756302
 .co-curricular_activities .container{ 
     position: relative; 
     z-index: 1;
-}
-.inner-page .container{
-    max-width: 1500px;
 }
 @media (max-width: 1700px) {
   

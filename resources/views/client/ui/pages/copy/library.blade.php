@@ -16,14 +16,13 @@
  
  
 
-      <section class="about-cnotent inner-page"> 
+      <section class="why-content board-list-cnt"> 
         <div class="container">
             <div class="row d-flex align-items-center ">
                 <div class="col-md-5"> 
                     <img src="{{asset('assets/img/libery.jpg')}}" class="img-fluid w-100"/>  
                 </div>
                 <div class="col-md-7">
-                   <div class="about-text-cntr clor-2">
                 <span>Library</span>
                     <h3>   Library</h3>
                     <p> The school library is a very comfortable and ideal platform for self-
@@ -33,7 +32,7 @@ growth process. Our Library has been designed with comfortable
 furniture and a vibrant environment to make the reading experience
 enticing and a treat for the students and teachers alike.</p> 
                    
-</div> 
+ 
                     
                 </div> 
             </div> 

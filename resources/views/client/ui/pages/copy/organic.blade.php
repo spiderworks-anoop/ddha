@@ -16,14 +16,13 @@
  
  
 
-<section class="about-cnotent inner-page"> 
+      <section class="why-content board-list-cnt"> 
         <div class="container">
             <div class="row d-flex align-items-center ">
             <div class="col-md-5   ">  
                     <img src="{{asset('assets/img/organic.jpg')}}" class="img-fluid w-100"/>   
                 </div>
                 <div class="col-md-7"> 
-                <div class="about-text-cntr clor-2">
                     <h3>   What is an Organic Lifestyle and how is it connected to the school?</h3>
                     <p> Living an organic lifestyle is living a balanced lifestyle. It begins with eating organic foods.
 Organic foods are fruits and vegetables grown without the use of chemicals, and meats
@@ -38,7 +37,7 @@ we do at the DDHA. Where ever possible we try to buy organic but sometimes the p
 prohibit us but children know about and help in the process.</p> 
                    
  
-</div> 
+                    
                 </div> 
             </div> 
         </div>  

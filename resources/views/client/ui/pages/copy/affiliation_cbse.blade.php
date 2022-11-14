@@ -51,7 +51,6 @@ following subjects: </p>
             <div class="row">
                 
                 <div class="col-md-4"> 
-                <div class="about-text-cntr clor-1">
                     <p> We have a broad and balanced curriculum, which is based on the
                     guidelines established by the National Curriculum Framework (NCF)
                     published by the NCERT. The curriculum that we offer at the Junior
@@ -66,12 +65,9 @@ following subjects: </p>
                         <li> Science</li>
                         <li> Sanskrit</li>    
                     </ul>  
-</div>
                 </div> 
 
                 <div class="col-md-4"> 
-                <div class="about-text-cntr clor-2">
-
                     <p> At the senior school, we offer different subjects at different levels. For
 grades 9 – 10, the following subjects are offered:</p> 
 <ul>
@@ -83,11 +79,9 @@ grades 9 – 10, the following subjects are offered:</p>
     <li> French</li> 
 </ul>   
                 </div> 
-</div>
 
 
                 <div class="col-md-4"> 
-                <div class="about-text-cntr clor-3">
                     <p> While for grades 11 – 12, we have different subject combinations:</p>    
                     <ul>
     <li> Commerce - English Core, Accountancy, Business Studies,
@@ -97,9 +91,8 @@ Economics/Psychology,Mathematics/EP/Painting/Physical
 Education</li> 
 </ul>
                 </div> 
-</div>
 
-                <div class="col-md-12 mt-3"> 
+                <div class="col-md-12"> 
                     <p> Our entire faculty is well trained and equipped to deliver the
 curriculum and ensure that every student is challenged and  
 encouraged to achieve their potential in all classes. We use Active

@@ -16,14 +16,13 @@
  
  
 
-<section class="about-cnotent inner-page  "> 
+      <section class="why-content board-list-cnt"> 
         <div class="container">
             <div class="row d-flex align-items-center ">
                 <div class="col-md-5"> 
                     <img src="{{asset('assets/img/learning-banner.jpg')}}" class="img-fluid w-100"/>  
                 </div>
                 <div class="col-md-7">
-                <div class="about-text-cntr clor-1">
                 <span>Learning  </span>
                     <h3>   Learning outside the classroom</h3>
                     <p>(LOCR) is a program being offered to all the children residing in the boarding consists of two parts – one part will
@@ -39,7 +38,6 @@ and I will never forget.” To a very great extent, the theoretical knowledge is
 activity related to the content taught, is organized. </p>  
                     
                 </div> 
-</div>
             </div> 
         </div>  
       </section>

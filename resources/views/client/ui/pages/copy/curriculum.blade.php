@@ -16,14 +16,13 @@
  
  
 
-      <section class="about-cnotent inner-page"> 
+      <section class="why-content board-list-cnt"> 
         <div class="container">
             <div class="row   ">
                 <div class="col-md-5"> 
                     <img src="{{asset('assets/img/caricu.jpg')}}" class="img-fluid w-100"/>  
                 </div>
                 <div class="col-md-7">
-                    <div class="about-text-cntr clor-1">
                 <span>Academics</span>
                     <h3>  Curriculum</h3>
                     <p>The aim of the Dehradun Hills Academy is to create a curriculum that is engaging,
@@ -51,7 +50,6 @@ conferences can be found on the calendar</p>
  
                     
                 </div> 
-</div>
             </div> 
         </div>  
       </section>
