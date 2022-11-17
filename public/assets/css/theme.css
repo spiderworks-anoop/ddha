@@ -1444,6 +1444,106 @@ background: linear-gradient(180deg, rgba(0,0,0,0) 0%, rgba(0,0,0,0.7539390756302
 .inner-page .container{
     max-width: 1500px;
 }
+
+.contact-page h3{
+font-size: 24px;
+font-weight: 600;
+border-bottom: 1px solid #333;
+line-height: 36px;
+margin-bottom: 35px;
+}
+
+.contact-page .form-control{
+    border: 1px solid #333;
+    border-radius: 0;
+    line-height: 45px;
+    }
+
+
+    .contact-page .btn{
+        border: 1px solid #facc47;
+        background-color: #facc47;
+        line-height: 45px;
+        color: #000;
+        border-radius: 0;
+        min-width: 150px;
+        }
+    
+
+    
+.reg-modal{
+    max-width: 500px;
+}
+
+.reg-modal h5{
+    font-size: 24px;
+    font-weight: 900;
+}
+.reg-modal .form-control{
+    border: 1px solid #333;
+    border-radius: 0;
+    line-height: 40px;
+    }
+
+
+    .reg-modal .btn{
+        border: 1px solid #facc47;
+        background-color: #facc47;
+        line-height: 45px;
+        color: #000;
+        border-radius: 0;
+        min-width: 150px;
+        }
+
+        .reg-modal .modal-content{
+            padding: 25px;
+        }
+
+.reg-page{
+    padding: 80px 0;
+}
+
+.reg-page .container{
+    max-width: 1000px;
+}
+
+.reg-page .reg-form-cntr{
+    border: 1px solid #f5f5f5;
+    padding: 50px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, .2);
+}
+
+.reg-form-cntr h4{
+    font-size: 24px;
+    font-weight: 900;
+    text-align: center;
+    margin-bottom: 35px;
+}
+
+.reg-form-cntr .form-control, .reg-form-cntr .form-select {
+    border: 1px solid #333;
+    border-radius: 0;
+    line-height: 35px;
+    }
+
+
+    .reg-form-cntr .btn{
+        border: 1px solid #facc47;
+        background-color: #facc47;
+        line-height: 45px;
+        color: #000;
+        border-radius: 0;
+        min-width: 150px;
+        }
+
+
+
+
+
+
+
+
+
 @media (max-width: 1700px) {
   
 }

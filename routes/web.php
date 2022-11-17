@@ -24,7 +24,9 @@ Route::get('/', function () {
 Route::get('/about', function () {
     return view('client.ui.pages.about');
 });
-
+Route::get('/contact', function () {
+    return view('client.ui.pages.contact');
+});
 Route::get('/why', function () {
     return view('client.ui.pages.why');
 }); 
@@ -89,7 +91,9 @@ Route::get('/career_guidance_cell', function () {
 Route::get('/curriculum', function () {
     return view('client.ui.pages.curriculum');
 });  
-
+Route::get('/online-registration', function () {
+    return view('client.ui.pages.online-registration');
+});  
 
 
 

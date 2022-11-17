@@ -1,11 +1,7 @@
 @extends('client.ui.base')
 @section('head')
 <style>
-   
-
-   body { 
-    background: #080808;
-}
+  
 </style>
 @endsection
 
@@ -14,97 +10,100 @@
 
 
 @section('content')
-
  
-<div id="wrapper">
 
 @include('client.ui.common.header')
-
-<section id="inner-headline">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12">
-                        <h2 class="pageTitle">Contact Us</h2>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <section id="content">
-
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="about-logo">
-                          
-                            <h3>Get in touch today or request a call back&nbsp;</h3>
-
-                             <p>Tel: +971 42 599 981<br>
-							Mob: +971 561 888 654</p>
-							<div class="widget">
-							<address>
-                           <h4>Address:</h4>
-                            
-							<p> <strong>Arbah Technical Works</strong><br>
-                                Shop D13, Al Kazana Center<br>
-                                Karama,Dubai<br>United Arab Emirates.<p>
-                            </address>
-                           
-                        </div>
-                            <p>For more information on our services please use the contact form below and one of our team will get back to you immediately.We are based in Dubai and cover all parts of UAE with offices in Al Khabaisi, Deira,Dubai.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-6">
-                        <p> </p>
-
-                        <!-- Form itself -->
-                        <form name="sentMessage" id="contactForm" novalidate>
-                            <div class="input-field">
-                                <input type="text" name="name" class="form-control"
-                                       id="name" required
-                                       data-validation-required-message="Please enter your name" />
-                                <label for="name" class="">   Name </label>
-                                <p class="help-block"></p>
-
-                            </div>
-                            <div class="input-field">
-                                <input type="email" class="form-control" id="email" required
-                                       data-validation-required-message="Please enter your email" />
-                                <label for="name" class="">   Email </label>
-                            </div>
-
-                            <div class="input-field">
-                                <textarea rows="10" cols="100" required class="form-control materialize-textarea"
-                                          idation-required-message="Please enter your message" minlength="5"
-                                          data-validation-minlength-message="Min 5 characters"
-                                          maxlength="999" style="resize:none"></textarea>
-                                <label for="name" class="">   Message </label>
-                            </div>
-                            <div id="success"> </div> <!-- For success/fail messages -->
-                            <button type="submit" class="btn btn-primary waves-effect waves-dark pull-right">Send</button><br/>
-                        </form>
-						   
-						
-                    </div>
-					  </div>
-					  <br>
-					  <div class="row">
-					
-                    <div class="col-md-6">
-		 
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14435.145109502444!2d55.3060982!3d25.2441225!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6afd7c3fafb07293!2sArbah%20Technical%20Works!5e0!3m2!1sen!2sin!4v1666008076109!5m2!1sen!2sin" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-                    </div>
-                </div>
-           
-
-        </section>
-
-    @include('client.ui.common.footer')
-
-@endsection
+ 
+<section class="about-banner">
+        
+        <img src="{{asset('assets/img/banner.jpg')}}" class="img-fluid"/> 
+        <div class="about-banner-text-cntr d-flex align-items-center justify-content-center">
+             <div><span>Contact </span>
+                    <h2>Contact Us</h2> 
 
 </div>
+
+        </div>
+      </section>
+
+
+      <section class="about-cnotent inner-page contact-page ">
+ 
+ 
+        <div class="container">
+
+        <div class="row mb-4">
+        <div class="col-md-6">
+            <h3>Contact Us</h3>
+        <form class="row g-3">
+        <div class="col-md-6">
+    <label for="inputPassword4" class="form-label">Name</label>
+    <input type="text" class="form-control" id="inputPassword4">
+  </div>
+  <div class="col-md-6">
+    <label for="inputEmail4" class="form-label">Email</label>
+    <input type="email" class="form-control" id="inputEmail4">
+  </div>
+
+  <div class="col-12">
+    <label for="inputAddress" class="form-label">Address</label>
+    <input type="text" class="form-control" id="inputAddress" placeholder="1234 Main St">
+  </div>
+  <div class="col-12">
+    <label for="inputAddress2" class="form-label">Message </label>
+    <textarea class="form-control" placeholder="Leave a comment here" id="floatingTextarea2" style="height: 100px"></textarea>
+  </div>
+  
+  
+ 
+   
+  <div class="col-12">
+    <button type="submit" class="btn btn-primary">  SUBMIT </button>
+  </div>
+</form>
+        </div>
+        <div class="col-md-6">
+            <h3>Address</h3> 
+    
+          <p> <strong>Dehradun Hills Academy</strong>  <br/>
+      Vill. Doodhli -Mothrowala-Doodhli Road Dehradun 248140 </p> 
+
+          
+          <p><a><i class="ri-phone-fill"></i> +91-9012377773</a></p>
+          <p><a><i class="ri-mail-line"></i> info@dehradunhillsacademy.co.in   </a></p> 
+          <p class="social-icon"> 
+            <a> <i class="ri-facebook-line"></i> </a>
+            <a> <i class="ri-instagram-line"></i> </a>
+            <a> <i class="ri-twitter-fill"></i> </a>
+            <a> <i class="ri-youtube-fill"></i> </a>
+            <a> <i class="ri-linkedin-line"></i> </a>
+</p> 
+     
+        </div>
+        </div>
+
+
+
+
+
+
+
+
+        <div class="row"> 
+        <div class="col-md-12">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2175.546014824964!2d78.0689929709142!3d30.19303086649897!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x4bf06e7695e154b4!2sDehradun%20Hills%20Academy%20Boutique%20Residential%20School!5e1!3m2!1sen!2sin!4v1665756894446!5m2!1sen!2sin" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+      </div>
+        </div>
+
+           
+        </div>  
+    
+ 
+ 
+      </section>
+@include('client.ui.common.footer')
+</div>
+@endsection
 @section('bottom')
 <script type="text/javascript">
    $(document).ready(function() {

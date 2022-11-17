@@ -16,6 +16,54 @@
  
 
 @include('client.ui.common.header')
+
+
+
+<!-- Button trigger modal -->
+<button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
+  Launch demo modal
+</button>
+
+
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog reg-modal">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel"> Make An Enquiry </h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+      <form class="row g-3">
+
+      <div class="col-md-12">
+    <label for="inputPassword4" class="form-label">Nmae</label>
+    <input type="text" class="form-control" id="inputPassword4">
+  </div>
+  <div class="col-md-12">
+    <label for="inputEmail4" class="form-label">Email</label>
+    <input type="email" class="form-control" id="inputEmail4">
+  </div>
+  <div class="col-md-12">
+    <label for="inputPassword4" class="form-label">Phone Number</label>
+    <input type="text" class="form-control" id="inputPassword4">
+  </div>
+  <div class="col-12">
+    <label for="inputAddress" class="form-label">Location</label>
+    <input type="text" class="form-control" id="inputAddress" placeholder="1234 Main St">
+  </div>
+ 
+   
+  <div class="col-12">
+    <button type="submit" class="btn btn-primary">SUBMIT  </button>
+  </div>
+</form>
+      </div>
+ 
+    </div>
+  </div>
+</div>
  
 <section class="banner">
         <div class="hapn"><img src="{{asset('assets/img/hap.png')}}" class="img-fluid"/> </div>
@@ -37,7 +85,6 @@
 
         </div>
       </section>
-
 
 
 
@@ -775,9 +822,10 @@
    
    
     
+         
+   $('#exampleModal').modal('show');
+
    
-   
-   
-      });
+    }); 
 </script>
 @endsection
