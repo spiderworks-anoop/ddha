@@ -32,7 +32,7 @@
       <form class="row g-3">
 
       <div class="col-md-12">
-    <label for="inputPassword4" class="form-label">Nmae</label>
+    <label for="inputPassword4" class="form-label">Name</label>
     <input type="text" class="form-control" id="inputPassword4">
   </div>
   <div class="col-md-12">
