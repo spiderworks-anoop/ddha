@@ -233,13 +233,16 @@
             <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-    <img src="{{asset('assets/img/hm-ad.png')}}" class="img-fluid"/> 
+    <img src="{{asset('assets/img/hm-sec1.png')}}" class="img-fluid"/> 
     </div>
     <div class="carousel-item">
-    <img src="{{asset('assets/img/hm-ad.png')}}" class="img-fluid"/> 
+    <img src="{{asset('assets/img/hm-sec2.png')}}" class="img-fluid"/> 
     </div>
     <div class="carousel-item">
-    <img src="{{asset('assets/img/hm-ad.png')}}" class="img-fluid"/> 
+    <img src="{{asset('assets/img/hm-sec3.png')}}" class="img-fluid"/> 
+    </div>
+    <div class="carousel-item">
+    <img src="{{asset('assets/img/hm-sec4.png')}}" class="img-fluid"/> 
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
