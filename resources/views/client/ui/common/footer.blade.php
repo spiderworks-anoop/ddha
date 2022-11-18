@@ -74,15 +74,15 @@
         <ul>
           <li> <strong>Dehradun Hills Academy</strong>  </li>
           <li>Vill. Doodhli -Mothrowala-Doodhli Road Dehradun 248140</li>
-          <li><a>Awards & Accolades</a></li>
+           
           <li><a><i class="ri-phone-fill"></i> +91-9012377773</a></li>
           <li><a><i class="ri-mail-line"></i> info@dehradunhillsacademy.co.in   </a></li> 
           <li class="social-icon">
-            <a> <i class="ri-facebook-line"></i> </a>
-            <a> <i class="ri-instagram-line"></i> </a>
-            <a> <i class="ri-twitter-fill"></i> </a>
-            <a> <i class="ri-youtube-fill"></i> </a>
-            <a> <i class="ri-linkedin-line"></i> </a>
+            <a href="https://www.facebook.com/dehradunhillsacademy" target="_blank"> <i class="ri-facebook-line"></i> </a>
+            <a href="www.instagram.com/ddhaofficial" target="_blank"> <i class="ri-instagram-line"></i> </a>
+            <a href="" target="_blank"> <i class="ri-twitter-fill"></i> </a>
+            <a href="www.youtube.com/c/DehradunHillsAcademy" target="_blank"> <i class="ri-youtube-fill"></i> </a>
+            <a href="" target="_blank"> <i class="ri-linkedin-line"></i> </a>
           </li> 
         </ul>
       </div>
