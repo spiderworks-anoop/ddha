@@ -744,7 +744,7 @@
       <div class="col-md-6">
         <h3>Latest News</h3>
         <div class="news-cntr">
-          <img src="{{asset('assets/img/news-1.png')}}" class="img-fluid"/>
+          <img src="{{asset('assets/img/news-2.jpg')}}" class="img-fluid"/>
           <h4>New Faces, News Roles, New Heights</h4>
           <a>View More News <i class="ri-arrow-right-line"></i></a>
         </div>
